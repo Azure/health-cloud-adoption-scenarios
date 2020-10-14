@@ -1,14 +1,20 @@
-# Project
+#Health and Life Sciences Azure Cloud Adoption Scenarios
 
-> This repo has been populated by an initial template to help get you started. Please
-> make sure to update the content to build a great experience for community-building.
+This repository is a collection of scenario-driven content to help provide samples for, and bootstrap Health and Life Science (HLS) Organizastions when deploying [Cloud Adoption Framework](https://docs.microsoft.com/en-us/azure/cloud-adoption-framework/) and [Landing Zones](https://docs.microsoft.com/en-us/azure/cloud-adoption-framework/ready/landing-zone/). While the Azure Cloud Adoption Framework (CAF), and [Enterprise-Scale Landing Zones](https://docs.microsoft.com/en-us/azure/cloud-adoption-framework/ready/enterprise-scale/architecture) are incredibly thorough, the goal of this repository is to help align Industry-Specific Regulations (HIPPA, HITRUST, GxP, FDA CFR 21 Part 11, etc.) guidance, while using common workloads, to help augment the CAF with Industry-Specific scenarios.
 
-As the maintainer of this project, please make a few updates:
+## List of Scenarios: 
 
-- Improving this README.MD file to provide a great experience
-- Updating SUPPORT.MD with content about this project's support experience
-- Understanding the security reporting process in SECURITY.MD
-- Remove this section from the README
+- General Migration with Industry-Specific Regulation
+- IoMT Medical Devices 
+- Genomics and HPC
+- Healthcare Provider using FHIR
+- Medical Insurance Payor Claims Processing
+
+
+
+While this is no means an exhaustive list, the goal is to help augment wherever possible. We welcome any and all contributions to the content in this repository. Please feel free to engage with the maintainers by submitting an issue, or by submitting a pull request. 
+
+---
 
 ## Contributing
 
