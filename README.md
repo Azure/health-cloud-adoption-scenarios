@@ -4,11 +4,11 @@ This repository is a collection of scenario-driven content to help provide sampl
 
 ## List of Scenarios: 
 
-- Data Center Migration (with Regulatory Compliance)
-- IoMT Medical Devices 
-- Genomics and HPC
-- Healthcare Provider using FHIR
-- Medical Insurance Claims Processing
+- [Data Center Migration (with Regulatory Compliance)](./Scenario%201%20-%20Datacenter%20Migration)
+- [IoMT Medical Devices](./Scenario%202%20-%20IoMT%20Medical%20Devices) 
+- [Genomics and HPC](Scenario%203%20-%20Genomics%20and%20HPC)
+- [Healthcare Provider using FHIR](Scenario%204%20-%20Medical%20Provider%20using%20FHIR)
+- [Medical Insurance Claims Processing](Scenario%205%20-%20Medical%20Insurance%20Claims%20Processing)
 
 
 
